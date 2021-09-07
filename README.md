@@ -1,2 +1,2 @@
-# -A_Blockchain
+# Blockchain
 Đồ án ứng dụng Blockchain vào xử lý hồ sơ
